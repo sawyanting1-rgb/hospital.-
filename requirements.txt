@@ -1,6 +1,6 @@
 streamlit
 pandas
-requests
 openpyxl
-geopy
-pydeck
+folium
+streamlit-folium
+openrouteservice
